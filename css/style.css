@@ -21,6 +21,20 @@
     color: #20A9E5;
 }
 
+.white-font{
+    color: white;
+}
+
+.background-lightblue{
+    background-size: cover;
+    background-color: rgb(17, 156, 226);
+}
+
+.background-skyblue{
+    background-size: cover;
+    background-color: skyblue;
+}
+
 .zero-left{
     padding-inline-start: 12px;
 }
@@ -30,3 +44,12 @@ h1{
     margin-bottom: 0px;
     padding-bottom: 0px;
 }
+
+table {
+      border:1px solid;
+      width:100%;
+      height:auto;
+      border-collapse: collapse;
+    
+      table-layout:fixed; 
+    }
