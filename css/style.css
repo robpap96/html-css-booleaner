@@ -3,13 +3,13 @@
     background-color: #20A9E5;
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
-    background-size: 400px 200px;
+    background-size: 30%;
+    padding-top: 60px;;
 }
 
 .logo{
     background-color: rgba(0, 0, 0, 0);
-    height: 100px;
-    width: 200px;
+    height: 60px;
    
 } 
 
